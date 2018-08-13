@@ -1,0 +1,9 @@
+{
+    "name":"HproseExample",
+    "description": "a HproseExample",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.0",
+        "hprose/hprose": ">=2.0.0"
+    }
+}
